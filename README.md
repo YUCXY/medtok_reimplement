@@ -1,13 +1,13 @@
 # medtok_reimplement
 
-This is an independent re-implementation of the paper:
-"Multimodal Medical Code Tokenizer"
-Authors: Xiaorui Su, Shvat Messica, Yepeng Huang, Ruth Johnson, Lukas Fesser, Shanghua Gao, Faryad Sahneh, Marinka Zitnik
-Published: ICML '25
-Link to official code: https://github.com/mims-harvard/MedTok
+This is an independent re-implementation of the paper: <br/>
+"Multimodal Medical Code Tokenizer" <br/>
+Authors: Xiaorui Su, Shvat Messica, Yepeng Huang, Ruth Johnson, Lukas Fesser, Shanghua Gao, Faryad Sahneh, Marinka Zitnik <br/>
+Published: ICML '25 <br/>
+Link to official code: https://github.com/mims-harvard/MedTok <br/>
 
 ## Purpose
-This project aims to reproduce and understand the core methods proposed in the paper. The code in this repository is not affiliated with or derived from the official implementation.
+This project aims to reproduce and understand the core methods proposed in the paper. The authors of the original paper introduces a tokenizer built specifically for medical purposes which is not only familiar with medical vocabulary, but is also learned about the nuances and hierarchies between terms. The code in this repository is not affiliated with or derived from the official implementation.
 
 ## Key Features (in progress)
 - [x] Written in PyTorch
