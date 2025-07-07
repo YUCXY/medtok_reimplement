@@ -18,4 +18,4 @@ This project aims to reproduce and understand the core methods proposed in the p
 - [x] Educational and open for community improvements
 
 ## Disclaimer
-This is an unofficial re-implementation for educational and research purposes. All credits for the original idea and research go to the authors of the paper.
+This is an unofficial re-implementation for educational and research purposes, and to further my own understanding of the methods described in the paper. This codebase is part of a series of independent implementations of recent ML papers to build practical understanding and demonstrate reproducibility. All credits for the original idea and research go to the authors of the paper.
