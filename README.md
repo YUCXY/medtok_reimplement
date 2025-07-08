@@ -7,7 +7,7 @@ Published: ICML '25 <br/>
 Link to official code: https://github.com/mims-harvard/MedTok <br/>
 
 ## Purpose
-This project aims to reproduce and understand the core methods proposed in the paper. The authors of the original paper introduces a tokenizer built specifically for medical purposes which is not only familiar with medical vocabulary, but is also learned about the nuances and hierarchies between terms.  <br/>
+This project aims to reproduce and understand the core methods proposed in the paper. The authors of the original paper introduce a tokenizer built specifically for medical purposes which is not only familiar with medical vocabulary, but is also learned about the nuances and hierarchies between terms.  <br/>
 **The code in this repository is not affiliated with or derived from the official implementation.**
 
 ## Key Features (in progress)
